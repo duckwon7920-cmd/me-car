@@ -2,5 +2,7 @@
   "name": "CarCare AI - 스마트 차량 관리 & 정비 견적 진단",
   "description": "차종별 맞춤 부품비·공임비 견적 산출과 Gemini AI 기반 실시간 증상 진단 및 소모품 관리 플랫폼",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
